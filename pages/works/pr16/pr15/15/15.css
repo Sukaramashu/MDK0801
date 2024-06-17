@@ -1,0 +1,41 @@
+.lemour{
+    margin-left: 250px;
+    display: grid;
+    gap: 20px;
+    height: 320px;
+    width: 720px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    flex-wrap: wrap;
+}
+.l1{
+    width: 489px;
+    height: 622px;
+    grid-row: span 2;
+}
+.l2{
+    width: 405px;
+    height: 301px;
+}
+.l3{
+    width: 405px;
+    height: 301px;
+}
+.l4{
+    width: 405px;
+    height: 301px;
+}
+.l5{
+    width: 405px;
+    height: 301px;
+}
+h1{
+    text-align: center;
+}
+
+.text{
+    width: 1200px;
+    margin-top: 360px;
+margin-left: 300px;
+
+}

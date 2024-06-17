@@ -1,0 +1,11 @@
+.keyf{
+    width: 100px;
+    height: 100px;
+    background: indigo;
+    border-radius: 120px 10px 120px 10px;
+    animation: sizing 2s infinite linear;
+    margin: 50px;
+}
+@keyframes sizing{
+    100%{transform: scale(1.5)};
+}
