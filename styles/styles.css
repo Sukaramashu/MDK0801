@@ -1,0 +1,63 @@
+
+
+.top
+{
+position: fixed;
+bottom: 10px;
+right: 10px;
+background-color: aqua ;
+padding: 10px;
+}
+.cat
+{
+background: url(../img/KPG5N.gif);
+width: 200px;
+height: 100px;
+background-size: cover;
+}
+nav ul li
+{
+display: inline-block;
+}
+nav ul
+{
+list-style: none;
+}
+nav li
+{
+    padding: 10px;
+
+}
+.prew{
+    width: 200px;
+    height: 200px;
+}
+.new{
+    background:url(../img/KPG5N.gif);
+    background-size: cover;
+}
+.con{
+    display: flex;
+    gap:20px;
+}
+main{
+    width: 70%;
+}
+aside{
+   width:  30%;
+}
+header{
+    background: green;
+}
+h1{
+    font-size: 34px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ nav ul li
+{
+list-style: none;
+}
+body li
+{
+list-style: none;
+}
